@@ -58,12 +58,6 @@ The goal was to:
 
 ---
 
-## 🎬 Demo
-
-> **Note**: This is a UI-only clone. No audio playback or interactive features are implemented (no JavaScript functionality except for the loading animation).
-
----
-
 ## ✨ Features
 
 ### 🎨 **UI Components**
