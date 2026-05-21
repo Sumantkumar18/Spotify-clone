@@ -9,7 +9,7 @@
   
   **A pixel-perfect Spotify UI clone built with pure HTML & CSS**
   
-  [View Demo](#-demo) • [Features](#-features) • [Getting Started](#-getting-started) • [Screenshots](#-screenshots)
+   • [Features](#-features) • [Getting Started](#-getting-started) • [Screenshots](#-screenshots)
   
 </div>
 
@@ -18,7 +18,6 @@
 ## 📖 Table of Contents
 
 - [About The Project](#-about-the-project)
-- [Demo](#-demo)
 - [Features](#-features)
 - [Built With](#️-built-with)
 - [Screenshots](#-screenshots)
@@ -62,8 +61,6 @@ The goal was to:
 ## 🎬 Demo
 
 > **Note**: This is a UI-only clone. No audio playback or interactive features are implemented (no JavaScript functionality except for the loading animation).
-
-🔗 **[Live Demo](file:///C:/Users/suman/OneDrive/Desktop/Spotify/index.html)**
 
 ---
 
